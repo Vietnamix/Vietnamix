@@ -41,4 +41,4 @@ Handy when you work cut off from the network.
 ---
 
 `PowerShell` · `SQL` · `C#` · `Python` · Windows/Linux infra & automation
-[LinkedIn](https://linkedin.com/in/eric-guiffault) · eric@guiffault.com · https://eric.guiffault.com(https://eric.guiffault.com)
+[LinkedIn](https://linkedin.com/in/eric-guiffault) · eric@guiffault.com · https://eric.guiffault.com
