@@ -42,5 +42,5 @@ parsing du format wiki. Pratique quand on travaille coupé du monde.
 
 ---
 
-`PowerShell` · `SQL` · `C#` · `Python` · infra Windows/Linux & automatisation
-[LinkedIn](https://linkedin.com/in/eric-guiffault) · eric@guiffault.com
+`PowerShell` · `SQL` · infra Windows/Linux & automatisation
+[LinkedIn](https://linkedin.com/in/eric-guiffault) · eric@guiffault.com · https://eric.guiffault.com
